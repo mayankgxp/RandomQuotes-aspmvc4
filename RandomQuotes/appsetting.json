@@ -1,3 +1,5 @@
-<configuration>
-  <databaseName></databaseName>
-</configuration>
+{
+  "configuration":{
+    "databaseName":"SomeDb"
+  }
+}
