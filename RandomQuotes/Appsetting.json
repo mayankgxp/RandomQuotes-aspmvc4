@@ -1,3 +1,5 @@
-"Configuration":{
-  "DataBaseName": "local.db"
+{
+  "Configuration":{
+    "DataBaseName": "local.db"
+  }
 }
