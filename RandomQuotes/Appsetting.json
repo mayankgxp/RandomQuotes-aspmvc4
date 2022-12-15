@@ -1,5 +1,5 @@
 {
   "Configuration": {
-    "DatabaeName":  "local.database" 
+    "DatabaseName":  "local.database" 
   } 
 }
