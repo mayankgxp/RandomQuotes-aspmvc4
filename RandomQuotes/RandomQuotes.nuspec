@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>RandomQuotes</id>
-        <title>A Sample ASP.NET 4.5 Application</title>
+        <id>$packageId$</id>
         <version>1.0.0</version>
         <authors>Octopus Deploy</authors>
         <owners>Octopus Deploy</owners>
